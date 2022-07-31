@@ -1,18 +1,17 @@
-# run-buddy-redux
-A website using HTML and CSS
+# Run Buddy
 
+## Purpose
+A website that offers fitness training services.
 
-## User Story 
+## Built With
+* HTML
+* CSS
 
-A basic landing page website demonstraing the the following skills:
+## Website
+https://github.com/TravisSwift/run-buddy-redux
 
-Using the command line to interact with github.
-
-Basic HTML using form elements, buttons, links, and an external CSS file. 
-
-Properly designing a header and footer and basic layout structure
-
-Publishing with github
+## Contribution
+Made with ❤️ by [Travis Swift]
 
 
 
